@@ -1,7 +1,4 @@
-myDict = {}
-myDict[1] = "one"
-myDict['a'] = "alphabet"
-
+myDict = {1: "one", 'a': "alphabet"}
 print(myDict)
 
 print(myDict.items())
